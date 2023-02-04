@@ -1,6 +1,6 @@
 # RecolorNeRF
 
-PyTorch implementation of paper *"RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes"* 
+PyTorch implementation of paper *"RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes"* by Bingchen Gong, Yuehao Wang, Xiaoguang Han, and Qi Dou.
 
 A novel user-friendly color editing approach for neural radiance fields.
 
@@ -46,7 +46,7 @@ CVXOPT_BUILD_GLPK=1 pip install cvxopt
 
 ### Palette Initialization
 
-Download [our customized initial palettes](https://drive.google.com/drive/folders/1XfRea5QnjBr0qjXk6vWurjJt4EI9FWSe?usp=share_link) to 'data_palette/' for reproducing our layer decomposition results.
+Download [our customized initial palettes](https://drive.google.com/drive/folders/1XfRea5QnjBr0qjXk6vWurjJt4EI9FWSe?usp=share_link) to `data_palette/` for reproducing our layer decomposition results.
 
 For scenes other than the provided ones, you can use the jupyter notebook `tools/get_palette.ipynb` to generate and customize new palettes.
 
