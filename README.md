@@ -7,6 +7,11 @@ A novel user-friendly color editing approach for neural radiance fields.
 **[[Paper]](https://arxiv.org/abs/2301.07958)** **[[Project Website]](https://sites.google.com/view/recolornerf)**
 
 
+
+https://user-images.githubusercontent.com/6317569/216793671-18ca0551-c668-4bb6-b929-2ba7b5059252.mp4
+
+
+
 ## Installation
 
 **Tested on Ubuntu 18.04 with PyTorch 1.12.1 and CUDA 11.1.**
