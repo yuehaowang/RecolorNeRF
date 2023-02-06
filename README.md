@@ -4,7 +4,7 @@ PyTorch implementation of paper *"RecolorNeRF: Layer Decomposed Radiance Fields 
 
 A novel user-friendly color editing approach for neural radiance fields.
 
-**[[Paper]](https://arxiv.org/abs/2301.07958)** **[[Project Website]](https://sites.google.com/view/recolornerf)**
+**[[Paper]](https://arxiv.org/abs/2301.07958)** **[[Project Website]](https://sites.google.com/view/recolornerf)** **[[Selected Results]](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155168053_link_cuhk_edu_hk/EksrNtKFtGVHssiSxZyuB6sBMFJTE4uTTPJM4lSLLoXcGA?e=wMEAjS)**
 
 
 
