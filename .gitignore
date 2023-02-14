@@ -1,6 +1,5 @@
 .DS_Store
 log*
-_*
 data_palette/
 
 # Byte-compiled / optimized / DLL files

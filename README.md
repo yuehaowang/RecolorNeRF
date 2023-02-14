@@ -1,6 +1,6 @@
 # RecolorNeRF
 
-PyTorch implementation of paper *"RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes"* by Bingchen Gong, Yuehao Wang, Xiaoguang Han, and Qi Dou.
+PyTorch implementation of paper *"RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes"* by Bingchen Gong\*, Yuehao Wang\*, Xiaoguang Han, and Qi Dou.
 
 A novel user-friendly color editing approach for neural radiance fields.
 
