@@ -11,6 +11,12 @@ A novel user-friendly color editing approach for neural radiance fields.
 https://user-images.githubusercontent.com/6317569/216793671-18ca0551-c668-4bb6-b929-2ba7b5059252.mp4
 
 
+## News
+
+- Sep 18, 2023: The [camera-ready version](https://arxiv.org/pdf/2301.07958.pdf) is uploaded to Arxiv.
+- Jul 16, 2023: Our paper is accepted by ACM MM 2023! :tada:
+- Feb 05, 2023: Initial release of the code.
+
 
 ## Installation
 
